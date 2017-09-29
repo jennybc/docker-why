@@ -14,6 +14,8 @@ Main categories:
     - Carl B: "I can point them to a URL with RStudio+tidyverse etc ready-to-go on running on an Amazon machine, a XSEDE allocation, or campus cluster". Via DM.
     - Mine and Colin's Duke teaching setup. Link to PeerJ preprint.
     - Steph Locke's teaching setup. Find that blog post.
+  * **Research/Analysis team**: Similar to the Educator approach, a research team wants to share a common environment with the same software (and versions thereof), data sets, etc., and deploy/scale this environment as needed.
+     -  Example: Noam's [EHA analysis image](https://github.com/ecohealthalliance/reservoir)
   * **R Package Developer**
     - You have OS A but need to test/debug on OS B (could be a different version of A or an entirely different OS). For certain combinations of A and B, Docker is a way to drop into a running version of B on A. Contrast this with the autopsy reports you get from R CMD check on CRAN, rhub, travis, appveyor. BrodieG example in reply to tweet. Sean Kross blog post. Jim H draft blog post.
     - Your normal development setup is A but you need to test/debug with setup B. Actually toggling back and forth is a PITA; it's nicer to use docker for the setup you use less frequently. Jim H's clang with sanitizers example.
