@@ -2,7 +2,7 @@
 
 Quick notes about why an R user would use Docker, jotted down as I read and thought about responses to [this tweet](https://twitter.com/JennyBryan/status/913785731998289920):
 
-> Has anyone in the #rstats world written really well about the *why* of their use of Docker, as opposed to the the *how*?
+> Has anyone in the #rstats world written really well about the *why* of their use of Docker, as opposed to the *how*?
 
 *This does NOT yet go though all the replies, make proper links, etc. Mea culpa.*
 
