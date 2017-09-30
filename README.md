@@ -12,8 +12,8 @@ Main categories:
 
   * **Educator**: Expert, opinionated R user wants to provide a very specific R environment to other people. Often coupled with using the cloud.
     - Carl B: "I can point them to a URL with RStudio+tidyverse etc ready-to-go on running on an Amazon machine, a XSEDE allocation, or campus cluster". Via DM.
-    - Mine and Colin's Duke teaching setup. Link to PeerJ preprint.
-    - Steph Locke's teaching setup. Find that blog post.
+    - Mine and Colin's Duke teaching setup. [Link to PeerJ preprint](https://peerj.com/preprints/3181.pdf).
+    - Steph Locke's teaching setup. [blog post](https://itsalocke.com/blog/building-an-r-training-environment/).
   * **Research/Analysis team**: Similar to the Educator approach, a research team wants to share a common environment with the same software (and versions thereof), data sets, etc., and deploy/scale this environment as needed.
      -  Example: Noam's [EHA analysis image](https://github.com/ecohealthalliance/reservoir)
   * **R Package Developer**
