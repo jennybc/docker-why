@@ -6,7 +6,7 @@ Quick notes about why an R user would use [Docker](https://www.docker.com), jott
 
 *This does NOT yet go exhaustively though all the replies, make proper links, etc. Mea culpa.*
 
-Note: I say "Docker" but perhaps I mean ["Linux Containers"](https://en.wikipedia.org/wiki/LXC). I think Docker is to Linux Containers as Git/GitHub is to distributed version control. It's not the only game in town, but it's the most prevalent one today. To push the metaphor even further, [Singularity](http://singularity.lbl.gov) seems to be the [GitLab](https://about.gitlab.com) of Linux Containers.
+Note: I say "Docker" but perhaps I mean ["Linux Containers"](https://en.wikipedia.org/wiki/LXC). I think Docker/DockerHub is to Linux Containers as Git/GitHub is to distributed version control. It's not the only game in town, but it's the most prevalent one today. To push the metaphor even further, [Singularity](http://singularity.lbl.gov) seems to be the [GitLab](https://about.gitlab.com) of Linux Containers.
 
 ### Main categories
 
