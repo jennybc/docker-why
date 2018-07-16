@@ -29,6 +29,8 @@ Note: I say "Docker" but perhaps I mean ["Linux Containers"](https://en.wikipedi
   
 ### Connection to other workflows
 
+* Docker with R is currently the [recommended](https://github.com/virtualstaticvoid/heroku-buildpack-r/issues/110) way to deploy R to Heroku, enabling full support for things like Packrat, which the buildpack approach currently does not make possible due to some implementation tricks.
+
 *something about Docker as version control for your computational setup*
   
 ### Further reading
